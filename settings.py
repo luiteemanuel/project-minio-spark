@@ -16,5 +16,5 @@ LOGS_BUCKET = 'logs'
 
 # API Settings
 API_KEY = os.getenv('API_KEY')
-API_BASE_URL = os.getenv('API_BASE_URL')
+API_BASE_URL = os.getenv('https://api.coingecko.com')
 EOF
